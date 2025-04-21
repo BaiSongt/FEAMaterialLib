@@ -1,0 +1,5 @@
+# Entire content of .gitignore or changes to be made
+material.py
+__pycache__/
+*.pyc
+*.log
